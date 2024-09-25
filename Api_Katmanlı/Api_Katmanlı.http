@@ -1,0 +1,6 @@
+@Api_Katmanlı_HostAddress = http://localhost:5031
+
+GET {{Api_Katmanlı_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
