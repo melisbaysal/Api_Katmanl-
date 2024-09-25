@@ -11,5 +11,6 @@ namespace BLL.DTO_S
     {
         public string Name { get; set; }
         public List<BookListDTO> Books { get; set; }
+
     }
 }
